@@ -1,5 +1,8 @@
 {
   "name": "face-count-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
+  
   "type": "angular"
 }
